@@ -1,3 +1,8 @@
+Link to site
+https://bogdandaringa2.github.io/Restaurantly/
+
+
+
 Thanks for downloading this template!
 
 Template Name: Restaurantly
